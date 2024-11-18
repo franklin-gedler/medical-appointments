@@ -1,0 +1,41 @@
+# Archivos de entorno
+.env
+
+# Archivos de dependencias
+/vendor/
+
+# Archivos de compilación
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Archivos de paquetes
+*.tar.gz
+*.zip
+
+# Archivos de editor
+*.swp
+*.swo
+*.swn
+*~
+.idea/
+.vscode/
+*.log
+
+# Archivos de cobertura de pruebas
+*.out
+coverage/
+
+# Archivos específicos de macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Archivos de iconos
+Icon?
+._*
+
+# Archivos de Thumbnails
+._.DS_Store
